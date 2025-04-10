@@ -1,7 +1,7 @@
 Anggota kelompok belajar daring selama ujian
-Kelompok Kura-kura :
-1. Zaki
-2. Azrril
-3. Faiz
-4. Alif
-5. Rofi
+  Kelompok Kura-kura :
+    1. Al Zaki Ibra Ramadani
+    2. Azrril Diki Saputra
+    3. Khairul Faiz Ramadhan
+    4. Muhammad Alif Nurul Insan
+    5. Rofi Dwi Saputra
